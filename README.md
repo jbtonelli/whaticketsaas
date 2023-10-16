@@ -1,4 +1,5 @@
-# WhaTicket Saas Backend anterior com Kanban e Modo Noturno</br>
+# WhaTicket Saas Backend anterior</br>
+com Kanban e Modo Noturno</br>
 Está é uma versão exclusiva licencas.digital by launcher, e conta com modo noturno e módulo kanban. </br>
 Funcionando com Baileys 6.5.0 - Setembro de 2023 </br>
 </br> Atualizado referencias para a bilioteca @WhiskeySockets/Baileys</br>
