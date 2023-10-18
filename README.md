@@ -52,6 +52,10 @@ frontend\src\pages\Chat\ChatList.js</br>
 ** Cores da Lista de Tarefas</br>
 /frontend/src/pages/ToDoList/index.js
 
+* Cor da janela de Anuncios
+(linha 282 = background: key % 2 === 0 ? "#ededed" : "white",)
+/frontend/src/components/AnnouncementsPopover/index.js
+
 ** Logo e LogoLogin:</br>
 /frontend/src/assets
 
