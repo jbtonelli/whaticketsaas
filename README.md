@@ -34,7 +34,7 @@ Atualização de Material UI 4 para MUI 5</br>
 Correção de Webhook Facebook (Messenger e Direct).</br>
 
 Em Observação:</br>
-Tickets de Admin são fechados automaticamente na avaliação </br>
+Tickets de Admin são fechados automaticamente na avaliação</br>
 (verificar se corrigiu) Tickets de usuários recebem a nota e só fecham e enviam disparo da mensagem de encerramento quando clica novamente em resolver.</br>
 Ao modificar gerenciamento de horários limpe as configurações anteriores primeiro.
 
@@ -53,7 +53,7 @@ frontend\src\pages\Chat\ChatList.js</br>
 /frontend/src/pages/ToDoList/index.js
 
 ** Cor da janela de Anuncios</br>
-(linha 282 = background: key % 2 === 0 ? "#ededed" : "white",)
+(linha 282 = background: key % 2 === 0 ? "#ededed" : "white",)</br>
 /frontend/src/components/AnnouncementsPopover/index.js
 
 ** Logo e LogoLogin:</br>
