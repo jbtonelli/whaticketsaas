@@ -1,5 +1,5 @@
 # WhaTicket Saas</br>
-Backend anterior com Kanban e Modo Noturno</br>
+Com Kanban e Modo Noturno</br>
 Está é uma versão exclusiva licencas.digital by launcher, e conta com modo noturno e módulo kanban. </br>
 Funcionando com Baileys 6.5.0 - Setembro de 2023 </br>
 </br> Atualizado referencias para a bilioteca @WhiskeySockets/Baileys</br>
@@ -16,22 +16,22 @@ Adicionado conexões Insta e Facebook - Em Revisão (Biblioteca desatualizada 9/
 Tipo de Chatbot = Somente Texto <br> Removido as opções depreciadas, Listas e Botões.
 
 Não é necessário estar com celular ativo e conectado a internet para receber mensagens.
-Respostas Rápidas > OK</br
+Respostas Rápidas > OK </br>
 Envio de mídia > OK </br>
 Agendamento de mensagens > OK </br>
 Importar contatos do telefone > OK </br>
 Exportar lista de contatos .csv > OK </br>
 Envio de campanhas > OK </br>
-Download e Importação de Lista de Contatos em Campanhas > Não testado </br>
+Download e Importação de Lista de Contatos em Campanhas > OK </br>
 Criar contatos de campanha direto no painel > Não testado </br>
-CallBack GerenciaNet via Insomnia. > Não testado </br>
+CallBack GerenciaNet via Insomnia > OK </br>
 Midia no Chat > Não testado</br>
 Escutar Audios > Não testado </br>
 Localização Fixa > Não testado - Não funciona em tempo real, mesmo na api oficial</br>
 
 Planos Futuros:</br>
 Atualização de Material UI 4 para MUI 5</br>
-Correção de Webhook Facebook (Messenger e Direct).</br>
+Correção de Webhook Facebook (Messenger e Direct)</br>
 
 Em Observação:</br>
 Tickets de Admin são fechados automaticamente na avaliação</br>
@@ -53,7 +53,6 @@ frontend\src\pages\Chat\ChatList.js</br>
 /frontend/src/pages/ToDoList/index.js
 
 ** Popover de Anuncios / Chat Interno </br>
-(background: key % 2 === 0 ? "#0094bb" : "white",)</br>
 /frontend/src/components/AnnouncementsPopover/index.js</br>
 /frontend/src/pages/Chat/ChatPopover.js
 
