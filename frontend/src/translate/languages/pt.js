@@ -225,6 +225,8 @@ const messages = {
         title: {
           add: "Nova Tag",
           edit: "Editar Tag",
+          addKanban: "Nova Lane",
+          editKanban: "Editar Lane",
         },
         form: {
           name: "Nome",
@@ -236,6 +238,35 @@ const messages = {
           cancel: "Cancelar",
         },
         success: "Tag salvo com sucesso.",
+        successKanban: "Lane salva com sucesso.",
+      },
+      kanban: {
+        title: "Kanban",
+        searchPlaceholder: "Pesquisa",
+        subMenus:{
+          list:"Painel",
+          tags:"Lanes"
+        }
+      },
+      tagsKanban: {
+        title: "Lanes",
+        laneDefault: "Em aberto",
+        confirmationModal: {
+          deleteTitle: "Você tem certeza que quer excluir esta Lane?",
+          deleteMessage: "Esta ação não pode ser revertida.",
+        },
+        table: {
+          name: "Nome",
+          color: "Cor",
+          tickets: "Tickets",
+          actions: "Ações",
+        },
+        buttons: {
+          add: "Nova Lane",
+        },
+        toasts: {
+          deleted: "Lane excluída com sucesso.",
+        },
       },
       chat: {
         noTicketMessage: "Selecione um ticket para começar a conversar.",
@@ -245,7 +276,7 @@ const messages = {
           titleUploadMsgDragDrop: "ARRASTE E SOLTE ARQUIVOS NO CAMPO ABAIXO",
           titleFileList: "Lista de arquivo(s)"
         },
-      },      
+      },
       ticketsManager: {
         buttons: {
           newTicket: "Novo",
@@ -323,6 +354,7 @@ const messages = {
           annoucements: "Informativos",
           chats: "Chat Interno",
           financeiro: "Financeiro",
+          kanban: "Kanban",
         },
         appBar: {
           user: {
