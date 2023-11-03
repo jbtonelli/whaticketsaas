@@ -43,7 +43,7 @@ Personalizações:</br>
 ** Alterar Cor Primária: (#007aff)</br>
 /frontend/src/config.json</br>
 /frontend/src/App.js</br>
-/frontend/src/layout/index.js
+/frontend/src/layout/index.js</br>
 /frontend\src\pages\Chat\ChatMessages.js
 
 ** Cores do Chat Interno:</br>
