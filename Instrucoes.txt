@@ -24,9 +24,6 @@ Recomendado: 4 vcpu e 8gb RAM
 Sugestão de VPS, X2
 https://control.peramix.com/?affid=14
 
-200 USD, Válidos por 60 dias na DigitalOcean
-https://m.do.co/c/97f058339c1e
-
 **** Somente instale quando os endereços de frontend e backend estiverem pingando para o ip do servidor.
 
 Confira em https://dnschecker.org/ se está propagado em todas as regiões.
