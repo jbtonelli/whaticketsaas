@@ -272,8 +272,8 @@ Atualizar
 
 Fazer o WebHook:
  
-Consulte o pdf no Google Drive.
-https://drive.google.com/file/d/1JFZAdL2jwwjzhQDAB6p0iIJ-P0mAUYMC/view?usp=drive_link
+Consulte o pdf:
+https://github.com/launcherbr/whaticketsaas/blob/master/WebhookEfi.pdf
 ===================================================================================================================================================== 
 
 *** Alterar Nome, Cor Primária, Logotipo e Favicon:
@@ -315,26 +315,6 @@ Por favor nos forneça o CPF/CNPJ para consultarmos na nossa base de dados
 
 ===================================================================================================================================================== 
 
-** Como permitir conexões remotas com o PostgreSQL:
-
-Conexões remotas, pgsql:
-
-sudo -u postgres psql -c "SHOW config_file;"
-
-nano /etc/postgresql/15/main/postgresql.conf
-
-Localizar e substituir a linha:
-
-#listen_addresses = 'localhost'
-listen_addresses = '*'
-
-sudo nano /etc/postgresql/15/main/pg_hba.conf
-Adicionar essas linhas no final do arquivo.
-
-Reiniciar a postgresql
-service postgresql restart
-
-======================================================================================================================================================== 
 Redis - Banco de Dados de Agendamento
 A seguir encontra-se uma sequência de comandos usada para testar se a senha do Redis funciona. O primeiro comando tenta definir uma chave para um valor antes da autenticação:
 
@@ -381,4 +361,11 @@ https://blog.melissatreinamentos.tec.br/
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Contribuições:
+
+Leandro Palmeira da Rocha
+Chave Pix: efd3110c-e572-42b5-a6cb-5984a8811ad2
+
+Nossos sites:
+https://licencas.digital
+https://licencasdigital.shop
