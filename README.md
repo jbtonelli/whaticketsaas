@@ -34,6 +34,7 @@ https://github.com/launcherbr/instalador.git
 ```
 
 Siga o arquivo de intruções deste repositório para instalação e fix da biblioteca e do nginx.
+Confira no pdf aqui como gerar um webhook de retorno de pagamento do Efi.
 
 Planos para o Futuro:</br>
 Correção de Integração Facebook (Messenger e Direct)</br>
