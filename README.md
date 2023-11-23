@@ -39,7 +39,7 @@ Página de Arquivos com envio pelo Bot
 
 Bugs Relatados:</br>
 O sistema configurado 100% não tem apresentados bugs. 
-</br>Exceção a instalações onde a uma discrepâncias de latência entre a instalação e os servidor de whatsapp, então não funciona em localhost ou servidor local, com ping muito baixo.
+</br>Exceção a instalações onde a uma discrepâncias de latência entre a instalação e os servidor de whatsapp, </br>então não funciona em localhost ou servidor local, com ping muito baixo.
 
 Personalizações:</br>
 
@@ -76,3 +76,4 @@ URL WEBHOOK META:
 ```bash
 https://api.seudominio.com.br/webhook/fb
 ```
+Caso queira algo mais moderno e que opera no modelo saas, omnichannel com diversos canais, oferecemos o serviço completo de instalação do chatwoot, basta acessar https://licencasdigital.shop
