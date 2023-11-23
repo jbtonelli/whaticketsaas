@@ -33,6 +33,8 @@ Utilize este instalador:
 https://github.com/launcherbr/instalador.git
 ```
 
+Siga o arquivo de intruções deste repositório para instalação e fix da biblioteca e do nginx.
+
 Planos para o Futuro:</br>
 Correção de Integração Facebook (Messenger e Direct)</br>
 Página de Arquivos com envio pelo Bot
@@ -44,32 +46,46 @@ O sistema configurado 100% não tem apresentados bugs.
 Personalizações:</br>
 
 ** Alterar Cor Primária: (#007aff)</br>
+```
 /frontend/src/config.json</br>
 /frontend/src/App.js</br>
 /frontend/src/layout/index.js</br>
 /frontend\src\pages\Chat\ChatMessages.js
+```
 
 ** Cores do Chat Interno:</br>
+```
 frontend\src\pages\Chat\ChatList.js</br>
+```
 
 ** Cores da Lista de Tarefas</br>
+```
 /frontend/src/pages/ToDoList/index.js
+```
 
 ** Popover de Anúncios / Chat Interno </br>
+```
 /frontend/src/components/AnnouncementsPopover/index.js</br>
 /frontend/src/pages/Chat/ChatPopover.js
+```
 
 ** Logo e LogoLogin:</br>
+```
 /frontend/src/assets
+```
 
 ** Icone e Favicon:</br>
+```
 /frontend/public
+```
 
-** Comando para rebuild, caminho absoluto /home/deploy/"nome"/
+** Comando para rebuild, caminho absoluto /home/deploy/"nome"/</br>
 Sempre que fizer alguma alteração nos arquivos é necessário rebuildar a aplicação.
   
+```
 cd /frontend
 npm run build
+```
 
 URL WEBHOOK META:
 
