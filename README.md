@@ -7,7 +7,8 @@ Caso precise de suporte pago, contate-nós em licencas.digital ou licencasdigita
 
 Funcionando com a última versão do Baileys 6.5.0 - Setembro de 2023</br>
 
-Apesar de ter os botões de conexões de insta e messenger, não obtivemos sucesso na conexão devida a defasagem da versão da API, </br>contribuições para essa corrigir essa funcionalidade são bem-vindas.</br>
+Apesar de ter os botões de conexões de insta e messenger, não obtivemos sucesso na conexão devida a defasagem da versão da API,
+</br>contribuições para essa corrigir essa funcionalidade são bem-vindas.</br>
 
 Notas Rápidas: </br>
 Requer servidor Ubuntu 20.04 LTS com ao menos 4vcore e 8gb de ram.</br>
@@ -19,7 +20,8 @@ Sugerimos a VPS X2, a seguir:
 ```
 https://control.peramix.com/?affid=14
 ```
-Não encorajamos o uso para envio de mensagens em massas, temos um software disponível para PC, o WaSender no valor de R$ 30,00, </br>sem limitações de número de instalações. Em último caso se limite ao máximo de 50 envios através da função campanhas.</br>
+Não encorajamos o uso para envio de mensagens em massas, temos um software disponível para PC.</br>
+O WaSender no valor de R$ 30,00, sem limitações de número de instalações. Em último caso se limite ao máximo de 50 envios através da função campanhas.</br>
 
 Adquira aqui o WaSender:
 
