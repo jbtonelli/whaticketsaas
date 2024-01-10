@@ -26,7 +26,7 @@ O WaSender no valor de R$ 30,00, sem limitações de número de instalações. E
 Adquira aqui o WaSender:
 
 ```
-https://licencasdigital.shop/order.php?step=1&productGroup=4&product=1
+Em breve..
 ```
 
 Utilize este instalador:
