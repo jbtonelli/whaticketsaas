@@ -1,9 +1,8 @@
 # WhaTicket Versão Saas com Módulo Kanban e Modo Noturno</br>
-Está é uma versão modificada pela licencas.digital da Launcher Tech.</br>
+Está é uma versão modificada pela licencas.digital da Launcher & Co.</br>
 Desde 23/11/2023 este se tornou um diretório aberto, para uso livre.
 </br>Caso queira fazer uma contribuição, serei muito grato.</br>
 Chave Pix, aleatória, efd3110c-e572-42b5-a6cb-5984a8811ad2.</br>
-Caso precise de suporte pago, contate-nós em licencas.digital ou licencasdigital.shop
 
 Funcionando com a última versão do Baileys 6.5.0 - Setembro de 2023</br>
 
@@ -95,4 +94,3 @@ URL WEBHOOK META:
 ```bash
 https://api.seudominio.com.br/webhook/fb
 ```
-Caso queira algo mais moderno e que opera no modelo saas, omnichannel com diversos canais, oferecemos o serviço completo de instalação do chatwoot, basta acessar https://licencasdigital.shop
