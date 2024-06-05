@@ -30,7 +30,7 @@ const useStyles = makeStyles({
     width: '100%',
     height: '100%',
     marginTop: '1rem',
-    backgroundColor: '#007aff',
+    backgroundColor: '#006769',
     color: '#fafafa',
     borderRadius: '5px',
   },
